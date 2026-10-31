@@ -1,0 +1,8 @@
+SpeechRecognition
+pyttsx3
+pyserial
+requests
+feedparser
+pyjokes
+randfacts
+PyAudio
